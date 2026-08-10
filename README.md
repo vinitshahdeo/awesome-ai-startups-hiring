@@ -8,6 +8,9 @@ A curated list of 160+ AI-first startups across agent infrastructure, LLM infere
 > [!WARNING]
 >  Funding data is mined using AI, not independently re-verified; spot-check before relying on it.
 
+<a href="https://peerlist.io/vinitshahdeo/project/awesome-ai-startups-hiring-in-2026"><img width="245" height="72" alt="Awesome AI Startups Hiring in 2026" src="https://github.com/user-attachments/assets/97dc4acc-89c9-4fba-afbe-af88c0e6fbaf" /></a>
+
+
 _Last updated: 2026-08-10_
 
 | # | Company | Category | Funding Details |
