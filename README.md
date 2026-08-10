@@ -178,5 +178,5 @@ _Last updated: 2026-08-10_
 | 164 | [Eventual Treasury](https://eventualtreasury.com) | AI fintech / treasury automation | Venture-backed (funding details N/A) |
 | 165 | [Loop AI](https://www.loopai.com) | AI restaurant & retail back-office (delivery reconciliation, agentic) | Series A · $14M · Feb 2026 · lead: Nyca Partners |
 | 166 | [Abnormal AI](https://abnormal.ai) | AI-native email & human-behavior security | Series D · $250M · Aug 2024 · valuation $5.1B · lead: Wellington Management (total ~$550M) |
-| 167 | 8club | AI invite-only events & networking (consumer social) | Seed · $795K · Feb 2024 · lead: India Quotient |
+| 167 | [8club](https://8club.co) | AI invite-only events & networking (consumer social) | Seed · $795K · Feb 2024 · lead: India Quotient |
 | 168 | [ZZAZZ](https://zzazz.com) | AI economics / Large Pricing Model (dynamic content pricing) | Funding not publicly disclosed (N/A) |
