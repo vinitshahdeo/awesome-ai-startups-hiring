@@ -184,6 +184,8 @@ _Last updated: 2026-08-10_
 
 ## Note
 
+<a href="https://www.buymeacoffee.com/vinitshahdeo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+
 This awesome list is maintained by [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo). Please check out the resources below, and feel free to raise a pull request to improve the list or add new AI-first startups that are hiring.
 
 * **Blog (Substack):** Interview prep, hiring-manager rounds, distributed systems, and engineering leadership — [vinitshahdeo.substack.com](https://vinitshahdeo.com/)
