@@ -2,7 +2,7 @@
 
 A curated list of 160+ AI-first startups across agent infrastructure, LLM inference, AI dev tools, data & retrieval infra, AI security, voice, and AI-fintech — with category and latest funding. **Curated for software engineers job-hunting in the AI era.** Find well-funded AI companies to apply to.
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-vinitshahdeo-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/vinitshahdeo)
 
 
 > [!WARNING]
@@ -189,3 +189,7 @@ This awesome list is maintained by [Vinit Shahdeo](https://www.linkedin.com/in/v
 * **AI-first hiring:** *[The Future of Hiring: AI-Assisted Coding Interviews Are Changing What It Means to Be an Engineer](https://vinitshahdeo.substack.com/p/ai-assisted-coding-interviews-what-it-means-to-be-an-engineer?utm_source=publication-search)*
 * **Book:** *[Digital Footprint for Software Engineers](https://digitalfootprintbook.com/)* — available on Amazon & Flipkart. **100% of author royalties go toward cancer care.**
 * **Hiring Manager**: *[How to Prepare for the Hiring Manager Round](https://vinitshahdeo.substack.com/p/hiring-manager-round-software-engineers)*
+
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](http://vinitshahdeo.substack.com) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=for-the-badge)](https://github.com/vinitshahdeo/)
+
+
