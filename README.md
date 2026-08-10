@@ -2,6 +2,9 @@
 
 A curated list of 160+ AI-first startups across agent infrastructure, LLM inference, AI dev tools, data & retrieval infra, AI security, voice, and AI-fintech — with category and latest funding. **Curated for software engineers job-hunting in the AI era.** Find well-funded AI companies to apply to.
 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+
+
 > [!WARNING]
 >  Funding data is mined using AI, not independently re-verified; spot-check before relying on it.
 
