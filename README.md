@@ -191,6 +191,6 @@ This awesome list is maintained by [Vinit Shahdeo](https://www.linkedin.com/in/v
 * **Book:** *[Digital Footprint for Software Engineers](https://digitalfootprintbook.com/)* — available on Amazon & Flipkart. **100% of author royalties go toward cancer care.**
 * **Hiring Manager**: *[How to Prepare for the Hiring Manager Round](https://vinitshahdeo.substack.com/p/hiring-manager-round-software-engineers)*
 
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](http://vinitshahdeo.substack.com) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=for-the-badge)](https://github.com/vinitshahdeo/)
+[![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=for-the-badge)](https://github.com/vinitshahdeo/) [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](http://vinitshahdeo.substack.com) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-vinitshahdeo-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/vinitshahdeo)
 
 
