@@ -180,3 +180,12 @@ _Last updated: 2026-08-10_
 | 166 | [Abnormal AI](https://abnormal.ai) | AI-native email & human-behavior security | Series D · $250M · Aug 2024 · valuation $5.1B · lead: Wellington Management (total ~$550M) |
 | 167 | [8club](https://8club.co) | AI invite-only events & networking (consumer social) | Seed · $795K · Feb 2024 · lead: India Quotient |
 | 168 | [ZZAZZ](https://zzazz.com) | AI economics / Large Pricing Model (dynamic content pricing) | Funding not publicly disclosed (N/A) |
+
+## Note
+
+This awesome list is maintained by [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo). Please check out the resources below, and feel free to raise a pull request to improve the list or add new AI-first startups that are hiring.
+
+* **Blog (Substack):** Interview prep, hiring-manager rounds, distributed systems, and engineering leadership — [vinitshahdeo.substack.com](https://vinitshahdeo.com/)
+* **AI-first hiring:** *[The Future of Hiring: AI-Assisted Coding Interviews Are Changing What It Means to Be an Engineer](https://vinitshahdeo.substack.com/p/ai-assisted-coding-interviews-what-it-means-to-be-an-engineer?utm_source=publication-search)*
+* **Book:** *[Digital Footprint for Software Engineers](https://digitalfootprintbook.com/)* — available on Amazon & Flipkart. **100% of author royalties go toward cancer care.**
+* **Hiring Manager**: *[How to Prepare for the Hiring Manager Round](https://vinitshahdeo.substack.com/p/hiring-manager-round-software-engineers)*
