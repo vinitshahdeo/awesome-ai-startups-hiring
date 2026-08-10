@@ -1,6 +1,6 @@
 # AI-First Startups Hiring in 2026: 160+ Funded Companies with Funding and Category
 
-A curated list of 160+ AI-first startups across agent infrastructure, LLM inference, AI dev tools, data & retrieval infra, AI security, voice, and AI-fintech — with category and latest funding. Curated for software engineers job-hunting in the AI era. Find well-funded AI companies to apply to.
+A curated list of 160+ AI-first startups across agent infrastructure, LLM inference, AI dev tools, data & retrieval infra, AI security, voice, and AI-fintech — with category and latest funding. **Curated for software engineers job-hunting in the AI era.** Find well-funded AI companies to apply to.
 
 > [!WARNING]
 >  Funding data is mined using AI, not independently re-verified — spot-check before relying on it.
