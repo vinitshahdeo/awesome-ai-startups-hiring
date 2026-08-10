@@ -191,7 +191,7 @@ This awesome list is maintained by [Vinit Shahdeo](https://www.linkedin.com/in/v
 * **Blog (Substack):** Interview prep, hiring-manager rounds, distributed systems, and engineering leadership — [vinitshahdeo.substack.com](https://vinitshahdeo.com/)
 * **AI-first hiring:** *[The Future of Hiring: AI-Assisted Coding Interviews Are Changing What It Means to Be an Engineer](https://vinitshahdeo.substack.com/p/ai-assisted-coding-interviews-what-it-means-to-be-an-engineer?utm_source=publication-search)*
 * **Book:** *[Digital Footprint for Software Engineers](https://digitalfootprintbook.com/)* — available on Amazon & Flipkart. **100% of author royalties go toward cancer care.**
-* **Hiring Manager**: *[How to Prepare for the Hiring Manager Round](https://vinitshahdeo.substack.com/p/hiring-manager-round-software-engineers)*
+* **Hiring Manager Interview**: *[How to Prepare for the Hiring Manager Round](https://vinitshahdeo.substack.com/p/hiring-manager-round-software-engineers)*
 
 [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=for-the-badge)](https://github.com/vinitshahdeo/) [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](http://vinitshahdeo.substack.com) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-vinitshahdeo-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/vinitshahdeo)
 
