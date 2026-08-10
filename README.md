@@ -180,7 +180,8 @@ _Last updated: 2026-08-10_
 | 166 | [Abnormal AI](https://abnormal.ai) | AI-native email & human-behavior security | Series D · $250M · Aug 2024 · valuation $5.1B · lead: Wellington Management (total ~$550M) |
 | 167 | [8club](https://8club.co) | AI invite-only events & networking (consumer social) | Seed · $795K · Feb 2024 · lead: India Quotient |
 | 168 | [ZZAZZ](https://zzazz.com) | AI economics / Large Pricing Model (dynamic content pricing) | Funding not publicly disclosed (N/A) |
-| 169 | [Smallest AI](https://smallest.ai/) | Voice AI | Series A · $13M |
+| 169 | [Smallest AI](https://smallest.ai/) | Voice AI | Series A, 2026 · $13M |
+| 170 | [Wisdom AI]() | AI Data Analytics, AI Agents, Embedded Agentic Analytics, Conversational BI | Series A, Nov 2025 · $73M |
 
 ## Note
 
