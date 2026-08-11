@@ -1,12 +1,18 @@
 # AI-First Startups Hiring in 2026: 160+ Funded Companies with Funding and Category
 
-A curated list of 160+ AI-first startups across agent infrastructure, LLM inference, AI dev tools, data & retrieval infra, AI security, voice, and AI-fintech — with category and latest funding. **Curated for software engineers job-hunting in the AI era.** Find well-funded AI companies to apply to.
-
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-vinitshahdeo-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/vinitshahdeo)
 
+A curated list of 160+ AI-first startups across agent infrastructure, LLM inference, AI dev tools, data & retrieval infra, AI security, voice, and AI-fintech — with category and latest funding. **Curated for software engineers job-hunting in the AI era.** Find well-funded AI companies to apply to.
 
 > [!WARNING]
 >  Funding data is mined using AI, not independently re-verified; spot-check before relying on it.
+
+## 🚀 How to Use This Resource
+- **Shoot Your Shot:** Browse the list, find the teams building tech that excites you, and head straight to their `/careers` pages to apply. If you want to stand out, take a leap and cold-email the founders directly.
+
+- **Pick the Right Startup:** Not all AI companies are built the same. Use [this evaluation framework](https://vinitshahdeo.substack.com/p/ai-startups-hiring-engineers-2026) to assess their tech stack, funding reality, and engineering culture before making your move.
+
+- **Ace the Interview:** Once you land a conversation, refer to [this guide](https://vinitshahdeo.substack.com/p/hiring-manager-round-software-engineers) to prepare for Hiring Manager (HM) rounds so you can navigate the technical and cultural questions with confidence.
 
 <a href="https://peerlist.io/vinitshahdeo/project/awesome-ai-startups-hiring-in-2026"><img width="245" height="72" alt="Awesome AI Startups Hiring in 2026" src="https://github.com/user-attachments/assets/97dc4acc-89c9-4fba-afbe-af88c0e6fbaf" /></a>
 
