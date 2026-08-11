@@ -14,6 +14,8 @@ A curated list of 160+ AI-first startups across agent infrastructure, LLM infere
 
 - **Ace the Interview:** Once you land a conversation, refer to [this guide](https://vinitshahdeo.substack.com/p/hiring-manager-round-software-engineers) to prepare for Hiring Manager (HM) rounds so you can navigate the technical and cultural questions with confidence.
 
+- **Support & Contribute:** If you find this helpful, please star or watch this repo as I continuously update it with the community's help. **PRs are always welcome**—let's contribute to expand this list for everyone!
+
 <a href="https://peerlist.io/vinitshahdeo/project/awesome-ai-startups-hiring-in-2026"><img width="245" height="72" alt="Awesome AI Startups Hiring in 2026" src="https://github.com/user-attachments/assets/97dc4acc-89c9-4fba-afbe-af88c0e6fbaf" /></a>
 
 
