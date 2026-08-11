@@ -20,7 +20,7 @@ A curated list of 160+ AI-first startups across agent infrastructure, LLM infere
 
 <a href="https://peerlist.io/vinitshahdeo/project/awesome-ai-startups-hiring-in-2026"><img width="245" height="72" alt="Awesome AI Startups Hiring in 2026" src="https://github.com/user-attachments/assets/97dc4acc-89c9-4fba-afbe-af88c0e6fbaf" /></a>
 
-## List of AI Startups
+## 📋 List of AI Startups
 
 > [!NOTE]
 > _Last updated: 2026-08-10_
@@ -201,7 +201,7 @@ A curated list of 160+ AI-first startups across agent infrastructure, LLM infere
 | 170 | [Wisdom AI](https://www.wisdom.ai) | AI Data Analytics, AI Agents, Embedded Agentic Analytics, Conversational BI | Series A, Nov 2025 · $73M |
 
 
-## 📌 Handpicked Resources for Startup Jobs
+## 💼 Handpicked Resources for Startup Jobs
 
 If you want to look beyond the usual LinkedIn job board grind, here are some high-signal, developer-focused platforms for discovering AI and startup roles:
 
@@ -216,7 +216,7 @@ If you want to look beyond the usual LinkedIn job board grind, here are some hig
 - [Peerlist Jobs](https://peerlist.io/jobs)
 - [Weekday](https://www.weekday.works)
 
-## Note
+## 📝 Note
 
 <!-- <a href="https://www.buymeacoffee.com/vinitshahdeo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a> -->
 
