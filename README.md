@@ -16,6 +16,7 @@ A curated list of 160+ AI-first startups across agent infrastructure, LLM infere
 
 <a href="https://peerlist.io/vinitshahdeo/project/awesome-ai-startups-hiring-in-2026"><img width="245" height="72" alt="Awesome AI Startups Hiring in 2026" src="https://github.com/user-attachments/assets/97dc4acc-89c9-4fba-afbe-af88c0e6fbaf" /></a>
 
+## List of AI Startups
 
 > [!NOTE]
 > _Last updated: 2026-08-10_
@@ -194,6 +195,22 @@ A curated list of 160+ AI-first startups across agent infrastructure, LLM infere
 | 168 | [ZZAZZ](https://zzazz.com) | AI economics / Large Pricing Model (dynamic content pricing) | Funding not publicly disclosed (N/A) |
 | 169 | [Smallest AI](https://smallest.ai) | Voice AI | Series A, 2026 · $13M |
 | 170 | [Wisdom AI](https://www.wisdom.ai) | AI Data Analytics, AI Agents, Embedded Agentic Analytics, Conversational BI | Series A, Nov 2025 · $73M |
+
+
+## 📌 Handpicked Resources for Startup Jobs
+
+If you want to look beyond the usual LinkedIn job board grind, here are some high-signal, developer-focused platforms for discovering AI and startup roles:
+
+- [Trueup.io](https://www.trueup.io)
+- [YC Work at a Startup](https://www.ycombinator.com/jobs)
+- [Wellfound](https://wellfound.com) (formerly AngelList)
+- [TopHire](https://tophire.co)
+- [HiringCafe](https://hiringcafe.com)
+- [Established Remote Companies](https://github.com/yanirs/established-remote)
+- [NextPlay Jobs](https://nextplay.so/jobs)
+- [Remote In Tech](https://remoteintech.company)
+- [Peerlist Jobs](https://peerlist.io/jobs)
+- [Weekday](https://www.weekday.works)
 
 ## Note
 
