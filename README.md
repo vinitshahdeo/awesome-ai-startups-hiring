@@ -1,6 +1,7 @@
 # AI-First Startups Hiring in 2026: 160+ Funded Companies with Funding and Category
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-vinitshahdeo-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/vinitshahdeo)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-vinitshahdeo-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/vinitshahdeo) ![GitHub Repo stars](https://img.shields.io/github/stars/vinitshahdeo/awesome-ai-startups-hiring?style=social)
+
 
 A curated list of 160+ AI-first startups across agent infrastructure, LLM inference, AI dev tools, data & retrieval infra, AI security, voice, and AI-fintech — with category and latest funding. **Curated for software engineers job-hunting in the AI era.** Find well-funded AI companies to apply to.
 
