@@ -216,6 +216,103 @@ If you want to look beyond the usual LinkedIn job board grind, here are some hig
 - [Peerlist Jobs](https://peerlist.io/jobs)
 - [Weekday](https://www.weekday.works)
 
+## 🔍 Where to Find AI & Startup Jobs
+
+A curated set of high-signal places to actually *find* roles, complementing the company list above. Grouped by type, each with a note on what it is best for. Links move occasionally (VC boards especially), so spot-check before relying.
+
+### VC & Accelerator Portfolio Boards
+
+Best signal for *funded* startups: every role is at a company an investor has already backed. Many run on Getro, so the format is consistent across funds.
+
+- **[Y Combinator: Work at a Startup](https://www.workatastartup.com)** - Direct applications to YC companies; create a free profile and founders reach out.
+- **[Wellfound](https://wellfound.com)** (formerly AngelList Talent) - The default startup board; most listings show salary and equity upfront.
+- **[a16z / Speedrun Talent Network](https://speedrun-talent-network.com/jobs)** - Roles across the full Andreessen Horowitz portfolio, filterable by function, stage, and remote.
+- **[Sequoia Portfolio Jobs](https://jobs.sequoiacap.com/jobs)** - Open roles across Sequoia companies.
+- **[Lightspeed Jobs](https://jobs.lsvp.com/jobs)** - Lightspeed Venture Partners portfolio roles.
+- **[Accel Jobs](https://jobs.accel.com)** - Accel portfolio roles (strong India and US coverage).
+- **[Greylock Jobs](https://jobs.greylock.com/jobs)** - Greylock portfolio roles.
+- **[Kleiner Perkins Jobs](https://jobs.kleinerperkins.com/jobs)** - KP portfolio roles.
+- **[Khosla Ventures Jobs](https://jobs.khoslaventures.com/jobs)** - Khosla portfolio roles (deep-tech and AI heavy).
+- **[Index Ventures Startup Jobs](https://www.indexventures.com/startup-jobs)** - Index portfolio roles.
+- **[Battery Ventures Jobs](https://jobs.battery.com/jobs)** - Battery portfolio roles.
+- **[NEA Careers](https://careers.nea.com/jobs)** - New Enterprise Associates portfolio roles.
+- **[Foundry Jobs](https://jobs.foundry.vc/jobs)** - Foundry portfolio roles.
+- **[Techstars Jobs](https://jobs.techstars.com/jobs)** - Roles across Techstars-backed companies.
+- **[Jobs in VC (Getro network)](https://jobsinvc.getro.com)** - Aggregated roles across many VC networks in one place.
+
+> [!NOTE]
+>  Most top funds run a board at `jobs.<fund>.com` (e.g., General Catalyst, Bessemer, First Round, Founders Fund). If a link 404s, search "&lt;fund name&gt; portfolio jobs".
+
+### AI-Specific Boards & Communities
+
+On-theme for this list: roles concentrated in AI/ML, research, and applied AI.
+
+- **[aijobs.com](https://www.aijobs.com)** - AI-only marketplace (ML, AI eng, research, CV, NLP); comp shown on many roles.
+- **[AIJobs.ai](https://aijobs.ai)** - Large AI/ML/data-science board spanning startups and incumbents.
+- **[ai-jobs.net](https://ai-jobs.net)** - High-volume AI/ML/data board with salary data and remote filters.
+- **[Cerebral Valley](https://cerebralvalley.ai)** - AI builder community; hiring surfaces via the newsletter and events (strong SF/NYC).
+- **[80,000 Hours Job Board](https://80000hours.org/job-board)** - High-impact and AI-safety roles at labs and orgs.
+- **[Trueup: AI](https://www.trueup.io/ai)** - Aggregated AI roles across the ecosystem; filter by stage and investor.
+
+### Startup Boards & Aggregators (Global)
+
+- **[Welcome to the Jungle](https://www.welcometothejungle.com)** (formerly Otta) - Curated, engineer-friendly matching with strong role context.
+- **[Built In](https://builtin.com)** - Startup and tech roles organized by city and remote, with culture and funding context.
+- **[Startup.jobs](https://startup.jobs)** - Global aggregator pulling directly from startup career pages.
+- **[TopStartups.io](https://topstartups.io/jobs)** - Filter startups and roles by investor, stage, size, and market.
+- **[Trueup](https://www.trueup.io)** - Aggregates roles across startups and big tech; good investor and stage filters.
+- **[Key Values](https://www.keyvalues.com)** - Match to startups by engineering culture and values, not just the role.
+- **[Underdog.io](https://underdog.io)** - One confidential application, curated intros to early-stage through Series B teams.
+- **[Layoffs.fyi](https://layoffs.fyi)** - Not a board, but its hiring lists and data reveal who is growing.
+
+### High-Signal Developer & Leadership Sources
+
+Where senior, staff, and lead roles surface without a recruiter layer.
+
+- **[Hacker News "Who is Hiring?"](https://news.ycombinator.com/submitted?id=whoishiring)** - Posted the 1st of each month; founders and CTOs post directly. Highest signal-to-noise for senior roles.
+- **[HN Hiring (searchable index)](https://hnhiring.com)** - Search and filter the HN threads (remote, stack, seniority) instead of Ctrl+F.
+- **[HN Algolia Search](https://hn.algolia.com)** - Search past threads to find companies that hire repeatedly.
+- **[The Pragmatic Engineer Talent Collective](https://pragmaticengineer.com)** - Curated senior-engineer opportunities via Gergely Orosz's network.
+- **[Levels.fyi Jobs](https://www.levels.fyi/jobs)** - Comp-first board; filter by level and see ranges before you apply.
+
+### Remote-First Boards
+
+- **[We Work Remotely](https://weworkremotely.com)** - Largest remote board; strong programming section.
+- **[Remote OK](https://remoteok.com)** - High-volume remote tech roles with salary and stack tags.
+- **[Remotive](https://remotive.com)** - Curated remote roles with an active community.
+- **[Himalayas](https://himalayas.app)** - Remote roles with rich company profiles and timezone filters.
+
+### India-Specific
+
+For roles based in India, or India-friendly remote.
+
+- **[Instahyre](https://www.instahyre.com)** - AI-matched product and startup roles; recruiters and hiring managers reach out directly.
+- **[Cutshort](https://cutshort.io)** - Skills-based matching for startup and product-company tech roles; fast pipelines.
+- **[Weekday](https://www.weekday.works)** - Referral-driven hiring, AI-startup heavy, senior roles.
+- **[Hirist](https://www.hirist.tech)** - Tech-only board for developer and engineering roles across India.
+- **[Hirect](https://hirect.in)** - Chat-based, direct founder-to-candidate hiring.
+- **[iimjobs](https://www.iimjobs.com)** - Senior and leadership roles (useful for lead/staff and eng-management tracks).
+- **[Tophire](https://tophire.co)** - Curated startup and product-company roles for experienced engineers.
+- **[Naukri](https://www.naukri.com)** and **[Foundit](https://www.foundit.in)** - Highest raw volume; best paired with an AI-matching platform above.
+
+> [!NOTE]
+> India VC boards worth watching: Peak XV, Accel India, Blume, Elevation, and Lightspeed India all run portfolio job boards (search "&lt;fund&gt; portfolio jobs").
+
+### Job Trackers & Application Tools
+
+To manage applications once you are pulling from many of the sources above.
+
+- **[Simplify](https://simplify.jobs)** - Autofill applications, track pipeline, and get matched roles (Chrome extension).
+- **[Teal](https://www.tealhq.com)** - Job tracker plus resume builder with per-role tailoring.
+- **[Huntr](https://huntr.co)** - Kanban-style application tracker with a browser clipper.
+- **[Careerflow](https://www.careerflow.ai)** - LinkedIn optimization plus application tracking.
+- **[Jobscan](https://www.jobscan.co)** - Match your resume against a JD for ATS keyword coverage.
+
+> [!TIP]
+> **How to use this:** pick two or three sources that fit your target (for funded AI startups, the VC portfolio boards plus the AI-specific boards do most of the work), one high-signal community source (HN "Who is Hiring" is hard to beat for senior roles), and one tracker so applications do not fall through the cracks. Breadth is not the goal; a tight, well-matched loop is.
+
+*Found a board that belongs here? Open a PR.*
+
 ## 📝 Note
 
 <!-- <a href="https://www.buymeacoffee.com/vinitshahdeo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a> -->
