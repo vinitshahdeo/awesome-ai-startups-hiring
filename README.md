@@ -1,7 +1,7 @@
 <img width="1536" height="1024" alt="Awesome AI Startup Hiring in 2026" src="https://github.com/user-attachments/assets/6010546a-3d22-40e2-b1cc-094e3901e7e6" />
 
 
-# AI-First Startups Hiring in 2026: 160+ Funded Companies with Funding and Category
+# 160+ Top AI Startups Hiring Software Engineers in 2026
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-vinitshahdeo-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/vinitshahdeo) ![GitHub Repo stars](https://img.shields.io/github/stars/vinitshahdeo/awesome-ai-startups-hiring?style=social)
 
