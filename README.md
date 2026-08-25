@@ -265,6 +265,8 @@ On-theme for this list: roles concentrated in AI/ML, research, and applied AI.
 - **[Key Values](https://www.keyvalues.com)** - Match to startups by engineering culture and values, not just the role.
 - **[Underdog.io](https://underdog.io)** - One confidential application, curated intros to early-stage through Series B teams.
 - **[Layoffs.fyi](https://layoffs.fyi)** - Not a board, but its hiring lists and data reveal who is growing.
+- **[ClanX](https://jobs.clanx.ai/)** - Curated jobs for global talent network.
+
 
 ### High-Signal Developer & Leadership Sources
 
