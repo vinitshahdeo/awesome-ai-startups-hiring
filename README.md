@@ -284,6 +284,7 @@ Where senior, staff, and lead roles surface without a recruiter layer.
 - **[Remote OK](https://remoteok.com)** - High-volume remote tech roles with salary and stack tags.
 - **[Remotive](https://remotive.com)** - Curated remote roles with an active community.
 - **[Himalayas](https://himalayas.app)** - Remote roles with rich company profiles and timezone filters.
+- **[Fetchwage](https://fetchwage.acoco.ai/?ref=awesome-ai-vinit-0918)** - Daily source-linked alerts for AI training, evaluation, and red-team gigs matched to skills, rate, and availability.
 
 ### India-Specific
 
