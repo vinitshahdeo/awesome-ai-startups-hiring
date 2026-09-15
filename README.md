@@ -311,6 +311,7 @@ To manage applications once you are pulling from many of the sources above.
 - **[Huntr](https://huntr.co)** - Kanban-style application tracker with a browser clipper.
 - **[Careerflow](https://www.careerflow.ai)** - LinkedIn optimization plus application tracking.
 - **[Jobscan](https://www.jobscan.co)** - Match your resume against a JD for ATS keyword coverage.
+- **[ResumeAI](https://withresumeai.com)** - Free ATS checker plus State of ATS 2026 (738 employers, 704 portal-verified).
 
 > [!TIP]
 > **How to use this:** pick two or three sources that fit your target (for funded AI startups, the VC portfolio boards plus the AI-specific boards do most of the work), one high-signal community source (HN "Who is Hiring" is hard to beat for senior roles), and one tracker so applications do not fall through the cracks. Breadth is not the goal; a tight, well-matched loop is.
