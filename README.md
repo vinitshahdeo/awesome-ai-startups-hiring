@@ -200,6 +200,7 @@ A curated list of 160+ AI-first startups across agent infrastructure, LLM infere
 | 168 | [ZZAZZ](https://zzazz.com) | AI economics / Large Pricing Model (dynamic content pricing) | Funding not publicly disclosed (N/A) |
 | 169 | [Smallest AI](https://smallest.ai) | Voice AI | Series A, 2026 · $13M |
 | 170 | [Wisdom AI](https://www.wisdom.ai) | AI Data Analytics, AI Agents, Embedded Agentic Analytics, Conversational BI | Series A, Nov 2025 · $73M |
+| 171 | [Clera](https://www.getclera.com) | AI talent agent / startup recruiting | Pre-seed · $3M · lead: 1984 Ventures |
 
 
 ## 💼 Handpicked Resources for Startup Jobs
@@ -264,6 +265,7 @@ On-theme for this list: roles concentrated in AI/ML, research, and applied AI.
 - **[Trueup](https://www.trueup.io)** - Aggregates roles across startups and big tech; good investor and stage filters.
 - **[Key Values](https://www.keyvalues.com)** - Match to startups by engineering culture and values, not just the role.
 - **[Underdog.io](https://underdog.io)** - One confidential application, curated intros to early-stage through Series B teams.
+- **[Clera](https://www.getclera.com)** - AI talent agent; one profile, warm intros to founders at 900+ startups backed by a16z, Index, and YC.
 - **[Layoffs.fyi](https://layoffs.fyi)** - Not a board, but its hiring lists and data reveal who is growing.
 - **[ClanX](https://jobs.clanx.ai/)** - Curated jobs for global talent network.
 
