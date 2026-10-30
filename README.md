@@ -200,6 +200,32 @@ A curated list of 160+ AI-first startups across agent infrastructure, LLM infere
 | 168 | [ZZAZZ](https://zzazz.com) | AI economics / Large Pricing Model (dynamic content pricing) | Funding not publicly disclosed (N/A) |
 | 169 | [Smallest AI](https://smallest.ai) | Voice AI | Series A, 2026 · $13M |
 | 170 | [Wisdom AI](https://www.wisdom.ai) | AI Data Analytics, AI Agents, Embedded Agentic Analytics, Conversational BI | Series A, Nov 2025 · $73M |
+| 171 | [Monaco](https://monaco.com) | AI-native revenue platform (San Francisco) | Venture-backed (funding details N/A) |
+| 172 | [Conversion](https://conversion.ai) | AI marketing automation for marketing ops (San Francisco) | Venture-backed (funding details N/A) |
+| 173 | [Gong](https://gong.io) | Revenue AI operating system (San Francisco) | Series E · $250M · Jun 2021 · valuation $7.25B · lead: Franklin Templeton |
+| 174 | [Profound](https://tryprofound.com) | AI search visibility / how brands show up in AI answers (New York) | Series B · $35M · Aug 2025 · lead: Sequoia |
+| 175 | [Artisan](https://artisan.co) | AI SDRs for outbound sales (San Francisco) | Series A · $25M · Apr 2025 · lead: Glade Brook Capital |
+| 176 | [Gradial](https://gradial.com) | AI agents for marketing operations (Seattle) | Venture-backed (funding details N/A) |
+| 177 | [SciFin](https://scifin.ai) | AI revenue ops on CRM & call data (San Jose) | Venture-backed (funding details N/A) |
+| 178 | [Sumble](https://sumble.com) | Account intelligence for sales teams (San Francisco) | Venture-backed (funding details N/A) |
+| 179 | [Rox](https://rox.com) | AI agents for revenue workflows (San Francisco) | ~$50M · lead: Sequoia (with General Catalyst) |
+| 180 | [Aligned](https://www.getaligned.com) | Shared buyer–seller workspace / digital sales rooms (Tel Aviv) | Venture-backed (funding details N/A) |
+| 181 | [Outreach](https://outreach.io) | AI sales engagement platform (Seattle) | Series G · $200M · Jun 2021 · valuation $4.4B · lead: Premji Invest |
+| 182 | [Letter AI](https://letter.ai) | AI sales enablement (Chicago) | Series B (funding details N/A) |
+| 183 | [Starbridge](https://starbridge.ai) | AI sales intelligence for selling to government (New York) | Venture-backed (funding details N/A) |
+| 184 | [Lightfield](https://lightfield.ai) | AI-native CRM that updates itself (San Francisco) | Venture-backed (funding details N/A) |
+| 185 | [Nooks](https://nooks.ai) | AI platform pairing reps with AI for outbound (San Francisco) | Series B · $43M · 2025 · lead: Kleiner Perkins |
+| 186 | [Hightouch](https://hightouch.com) | Customer data platform with AI marketing (San Francisco) | Series C · $80M · Feb 2025 · valuation $1.2B · lead: Sapphire Ventures |
+| 187 | [Attio](https://attio.com) | AI-native CRM (London) | Series B · $52M · Aug 2025 · lead: GV |
+| 188 | [Clay](https://clay.com) | GTM data enrichment & workflows (New York) | Series C · $100M · Aug 2025 · valuation $3.1B · lead: CapitalG |
+| 189 | [Anyword](https://anyword.com) | AI marketing content (Tel Aviv) | Series B · $21M |
+| 190 | [Dreamdata](https://dreamdata.io) | B2B GTM attribution (Copenhagen) | Venture-backed (funding details N/A) |
+| 191 | [DealHub.ai](https://dealhub.io) | Quote-to-revenue platform (New York) | Series B · $40M · 2022 |
+| 192 | [Attention](https://attention.com) | AI analysis of sales conversations (New York) | Venture-backed (funding details N/A) |
+| 193 | [Siro](https://siro.ai) | AI for in-person sales conversations (New York) | Venture-backed (funding details N/A) |
+| 194 | [Mutiny](https://mutinyhq.com) | AI sales assistant for account-based marketing (San Francisco) | Series B · $50M · 2022 · lead: Tiger Global |
+| 195 | [Walnut](https://walnut.io) | Interactive demos & deal rooms (Tel Aviv) | Series B · $35M · 2022 · lead: Felicis |
+| 196 | [Harmonic](https://harmonic.ai) | AI company & startup discovery data (VC/GTM) | Venture-backed (funding details N/A) |
 
 
 ## 💼 Handpicked Resources for Startup Jobs
