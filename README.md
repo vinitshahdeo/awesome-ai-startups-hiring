@@ -242,6 +242,7 @@ If you want to look beyond the usual LinkedIn job board grind, here are some hig
 - [Remote In Tech](https://remoteintech.company)
 - [Peerlist Jobs](https://peerlist.io/jobs)
 - [Weekday](https://www.weekday.works)
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video / photo-to-video meme templates, 9:16, freemium).
 
 ## 🔍 Where to Find AI & Startup Jobs
 
