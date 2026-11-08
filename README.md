@@ -276,6 +276,7 @@ On-theme for this list: roles concentrated in AI/ML, research, and applied AI.
 
 - **[aijobs.com](https://www.aijobs.com)** - AI-only marketplace (ML, AI eng, research, CV, NLP); comp shown on many roles.
 - **[AIJobs.ai](https://aijobs.ai)** - Large AI/ML/data-science board spanning startups and incumbents.
+- **[Present of AI](https://presentofai.com/jobs)** - Free, open directory of AI companies and AI jobs (thousands of roles), with company profiles and sourced data.
 - **[ai-jobs.net](https://ai-jobs.net)** - High-volume AI/ML/data board with salary data and remote filters.
 - **[Cerebral Valley](https://cerebralvalley.ai)** - AI builder community; hiring surfaces via the newsletter and events (strong SF/NYC).
 - **[80,000 Hours Job Board](https://80000hours.org/job-board)** - High-impact and AI-safety roles at labs and orgs.
