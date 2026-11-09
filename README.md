@@ -1,7 +1,7 @@
 <img width="1536" height="1024" alt="Awesome AI Startup Hiring in 2026" src="https://github.com/user-attachments/assets/6010546a-3d22-40e2-b1cc-094e3901e7e6" />
 
 
-# 190+ Top AI Startups Hiring Software Engineers in 2026
+# 200+ Top AI Startups Hiring Software Engineers in 2026
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-vinitshahdeo-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/vinitshahdeo) ![GitHub Repo stars](https://img.shields.io/github/stars/vinitshahdeo/awesome-ai-startups-hiring?style=social)
 
@@ -226,6 +226,31 @@ A curated list of 190+ AI-first startups across agent infrastructure, LLM infere
 | 194 | [Mutiny](https://mutinyhq.com) | AI sales assistant for account-based marketing (San Francisco) | Series B · $50M · 2022 · lead: Tiger Global |
 | 195 | [Walnut](https://walnut.io) | Interactive demos & deal rooms (Tel Aviv) | Series B · $35M · 2022 · lead: Felicis |
 | 196 | [Harmonic](https://harmonic.ai) | AI company & startup discovery data (VC/GTM) | Venture-backed (funding details N/A) |
+| 197 | Town | Personal productivity tools powered by AI agents (San Francisco) | NA |
+| 198 | [HappyRobot](https://happyrobot.ai) | AI agents for practical business interactions / logistics (San Francisco) | Series B · $44M · Sep 2025 · lead: Base10 Partners |
+| 199 | [E2B](https://e2b.dev) | Cloud sandboxes / code execution for enterprise AI agents (San Francisco) | Series A · $21M · Jul 2025 · lead: Insight Partners |
+| 200 | [Guild.ai](https://guild.ai) | Infrastructure to oversee agent deployment & operations (San Francisco) | NA |
+| 201 | [Coworker.ai](https://coworker.ai) | Enterprise AI-agent deployment & coordination (San Francisco) | NA |
+| 202 | [CrewAI](https://crewai.com) | Multi-agent orchestration platform (San Francisco) | Series A · $18M (incl. inception round) · Oct 2024 · lead: Insight Partners |
+| 203 | [FlowX.AI](https://flowx.ai) | Multi-agent AI for financial services (Bucharest) | Series A · $35M · Feb 2024 · lead: Dawn Capital |
+| 204 | [Ascendion](https://ascendion.com) | AI agents for software development / engineering services (Basking Ridge) | NA |
+| 205 | [Synera](https://synera.io) | Automation agents for engineering design workflows (Bremen) | NA |
+| 206 | [Leena AI](https://leena.ai) | AI assistants for internal enterprise operations (San Francisco) | Series B · $30M · Jan 2022 · lead: Bessemer Venture Partners |
+| 207 | [Avataar](https://avataar.ai) | Autonomous AI agents / generative AI (Bangalore) | Series B · $45M · Jun 2022 · lead: Tiger Global |
+| 208 | [Accrete](https://accrete.ai) | AI knowledge systems capturing expert know-how (New York) | NA |
+| 209 | [Talkdesk](https://talkdesk.com) | AI agents for contact-center customer journeys (San Francisco) | Series D · $230M · Jul 2021 · valuation $10B · lead: Viking Global Investors |
+| 210 | Arrakis Technologies | AI agents for industrial workflows (London) | NA |
+| 211 | Sycamore | Systems for managing enterprise AI agents (Palo Alto) | NA |
+| 212 | [Vectara](https://vectara.com) | Secure agentic RAG platform for enterprises (Palo Alto) | Series A · $25M · Jul 2024 · lead: FPV Ventures, Race Capital |
+| 213 | [Mastra](https://mastra.ai) | TypeScript framework for building AI agents (San Francisco) | Seed · $13M · 2025 |
+| 214 | [1mind](https://1mind.com) | AI sales & revenue teammates (Hampton Falls) | Series A · $30M · 2025 · lead: Battery Ventures |
+| 215 | ThinkingAI | Self-hosted agents with real-time data (Singapore) | NA |
+| 216 | [Newo.ai](https://newo.ai) | Platform for conversational voice agents (San Francisco) | NA |
+| 217 | [ConnexAI](https://connexai.com) | Conversational AI for customer engagement (Manchester) | NA |
+| 218 | [WIZ.AI](https://wiz.ai) | LLM-powered voice & virtual agents (Singapore) | Series A · $20M · 2022 |
+| 219 | [Syllable AI](https://syllable.ai) | Voice-agent development & performance tools (Mountain View) | NA |
+| 220 | [Regal](https://regal.ai) | AI agents for customer conversations (New York) | Series B · $38M · 2022 · lead: Emergence Capital |
+| 221 | [SoundHound AI](https://soundhound.com) | Voice-first AI agent systems (Santa Clara) | Public (NASDAQ: SOUN) |
 
 
 ## 💼 Handpicked Resources for Startup Jobs
