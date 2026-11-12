@@ -300,6 +300,7 @@ Best signal for *funded* startups: every role is at a company an investor has al
 On-theme for this list: roles concentrated in AI/ML, research, and applied AI.
 
 - **[aijobs.com](https://www.aijobs.com)** - AI-only marketplace (ML, AI eng, research, CV, NLP); comp shown on many roles.
+- **[caio.pro](https://caio.pro/jobs.html)** - Senior AI and data leadership roles, including Head of AI and Chief AI Officer; free to browse.
 - **[AIJobs.ai](https://aijobs.ai)** - Large AI/ML/data-science board spanning startups and incumbents.
 - **[ai-jobs.net](https://ai-jobs.net)** - High-volume AI/ML/data board with salary data and remote filters.
 - **[Cerebral Valley](https://cerebralvalley.ai)** - AI builder community; hiring surfaces via the newsletter and events (strong SF/NYC).
