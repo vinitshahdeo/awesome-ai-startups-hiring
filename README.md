@@ -6,7 +6,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-vinitshahdeo-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/vinitshahdeo) ![GitHub Repo stars](https://img.shields.io/github/stars/vinitshahdeo/awesome-ai-startups-hiring?style=social)
 
 
-A curated list of 190+ AI-first startups across agent infrastructure, LLM inference, AI dev tools, data & retrieval infra, AI security, voice, and AI-fintech — with category and latest funding. **Curated for software engineers job-hunting in the AI era.** Find well-funded AI companies to apply to. Just know that [FAANG isn't the only game](https://leetcode.com/discuss/post/8457111/beyond-faang-160-well-funded-ai-startups-7b4p) in town anymore. ⚡
+A curated list of 240+ AI-first startups across agent infrastructure, LLM inference, AI dev tools, data & retrieval infra, AI security, voice, and AI-fintech — with category and latest funding. **Curated for software engineers job-hunting in the AI era.** Find well-funded AI companies to apply to. Just know that [FAANG isn't the only game](https://leetcode.com/discuss/post/8457111/beyond-faang-160-well-funded-ai-startups-7b4p) in town anymore. ⚡
 
 
 > [!WARNING]
@@ -24,7 +24,7 @@ A curated list of 190+ AI-first startups across agent infrastructure, LLM infere
 ## 📋 List of AI Startups
 
 > [!NOTE]
-> _Last updated: 2026-08-10_
+> _Last updated: 2026-11-16_
 > 
 > If you find this helpful, please star or watch this repo as I continuously update it with the community's help. **PRs are always welcome**—let's contribute to expand this list for everyone!
 
@@ -251,6 +251,69 @@ A curated list of 190+ AI-first startups across agent infrastructure, LLM infere
 | 219 | [Syllable AI](https://syllable.ai) | Voice-agent development & performance tools (Mountain View) | NA |
 | 220 | [Regal](https://regal.ai) | AI agents for customer conversations (New York) | Series B · $38M · 2022 · lead: Emergence Capital |
 | 221 | [SoundHound AI](https://soundhound.com) | Voice-first AI agent systems (Santa Clara) | Public (NASDAQ: SOUN) |
+| 222 | [micro1](https://micro1.ai) | AI talent and training data (San Francisco) · Remote-friendly | Venture-backed (funding details N/A) |
+| 223 | [Nous Research](https://nousresearch.com) | Open-source frontier models (Austin) · Remote-friendly | Venture-backed (funding details N/A) |
+| 224 | [Owner](https://owner.com) | AI growth platform for restaurants (San Francisco) · Remote-friendly | Venture-backed (funding details N/A) |
+| 225 | [Hugging Face](https://huggingface.co) | Open-source AI hub (New York) · Remote-friendly | Venture-backed (funding details N/A) |
+| 226 | [Supabase](https://supabase.com) | Backend for AI app builders (San Francisco) · Remote-friendly | Venture-backed (funding details N/A) |
+| 227 | [n8n](https://n8n.io) | Workflow automation with AI agents (Berlin) · Remote-friendly | Venture-backed (funding details N/A) |
+| 228 | [Ashby](https://ashbyhq.com) | AI-powered recruiting software (San Francisco) · Remote-friendly | Venture-backed (funding details N/A) |
+| 229 | [Prolific](https://prolific.com) | Human data for AI training (London) · Remote-friendly | Venture-backed (funding details N/A) |
+| 230 | [AssemblyAI](https://assemblyai.com) | Speech AI API (San Francisco) · Remote-friendly | Venture-backed (funding details N/A) |
+| 231 | [SmarterDx](https://smarterdx.com) | Clinical AI for hospital revenue (New York) · Remote-friendly | Venture-backed (funding details N/A) |
+| 232 | [Deepgram](https://deepgram.com) | Voice AI platform (San Francisco) · Remote-friendly | Venture-backed (funding details N/A) |
+| 233 | [Turing](https://turing.com) | AI training data and talent (Palo Alto) · Remote-friendly | Venture-backed (funding details N/A) |
+| 234 | [Toloka](https://toloka.ai) | AI data and evaluations (Amsterdam) · Remote-friendly | Venture-backed (funding details N/A) |
+| 235 | [Sanity](https://sanity.io) | AI content platform (San Francisco) · Remote-friendly | Venture-backed (funding details N/A) |
+| 236 | [H2O.ai](https://h2o.ai) | Enterprise AI platform (Mountain View) · Remote-friendly | Venture-backed (funding details N/A) |
+| 237 | [AKASA](https://akasa.com) | Generative AI for healthcare billing (South San Francisco) · Remote-friendly | Venture-backed (funding details N/A) |
+| 238 | [Lightning AI](https://lightning.ai) | AI development cloud (New York) · Remote-friendly | Venture-backed (funding details N/A) |
+| 239 | [Abacus.AI](https://abacus.ai) | AI agents platform (San Francisco) · Remote-friendly | Venture-backed (funding details N/A) |
+| 240 | [HiddenLayer](https://hiddenlayer.com) | AI security (Austin) · Remote-friendly | Venture-backed (funding details N/A) |
+| 241 | [Sourcegraph](https://sourcegraph.com) | AI coding tools (San Francisco) · Remote-friendly | Venture-backed (funding details N/A) |
+| 242 | [Coder](https://coder.com) | Workspaces for developers and AI agents (Austin) · Remote-friendly | Venture-backed (funding details N/A) |
+| 243 | [Phaidra](https://phaidra.ai) | AI agents for data centers (Seattle) · Remote-friendly | Venture-backed (funding details N/A) |
+| 244 | [Hex](https://hex.tech) | AI data analytics workspace (San Francisco) · Remote-friendly | Venture-backed (funding details N/A) |
+| 245 | [Vercel](https://vercel.com) | AI cloud, maker of v0 (San Francisco) · Remote-friendly | Venture-backed (funding details N/A) |
+
+## 🌍 Remote-Friendly AI Companies
+
+32 remote-friendly AI companies actively hiring, ranked by percentage headcount growth over the past 90 days.
+
+| # | Company | What They Do | HQ | LinkedIn |
+|---:|---|---|---|---|
+| 1 | [micro1](https://micro1.ai) | AI talent and training data | San Francisco | [micro1](https://www.linkedin.com/company/micro1/) |
+| 2 | [ElevenLabs](https://elevenlabs.io) | Voice AI | London | [elevenlabs](https://www.linkedin.com/company/elevenlabs/) |
+| 3 | [Prime Intellect](https://primeintellect.ai) | Decentralized AI training | San Francisco | [primeintellect-ai](https://www.linkedin.com/company/primeintellect-ai/) |
+| 4 | [Nous Research](https://nousresearch.com) | Open-source frontier models | Austin | [nousresearch](https://www.linkedin.com/company/nousresearch/) |
+| 5 | [Owner](https://owner.com) | AI growth platform for restaurants | San Francisco | [owner-com](https://www.linkedin.com/company/owner-com/) |
+| 6 | [OpenRouter](https://openrouter.ai) | Marketplace for AI models | New York | [openrouter](https://www.linkedin.com/company/openrouter/) |
+| 7 | [Hugging Face](https://huggingface.co) | Open-source AI hub | New York | [huggingface](https://www.linkedin.com/company/huggingface/) |
+| 8 | [Runpod](https://runpod.io) | GPU cloud for developers | San Francisco | [runpod-io](https://www.linkedin.com/company/runpod-io/) |
+| 9 | [Supabase](https://supabase.com) | Backend for AI app builders | San Francisco | [supabase](https://www.linkedin.com/company/supabase/) |
+| 10 | [n8n](https://n8n.io) | Workflow automation with AI agents | Berlin | [n8n](https://www.linkedin.com/company/n8n/) |
+| 11 | [Ashby](https://ashbyhq.com) | AI-powered recruiting software | San Francisco | [ashbyhq](https://www.linkedin.com/company/ashbyhq/) |
+| 12 | [Prolific](https://prolific.com) | Human data for AI training | London | [prolific-com](https://www.linkedin.com/company/prolific-com/) |
+| 13 | [AssemblyAI](https://assemblyai.com) | Speech AI API | San Francisco | [assemblyai](https://www.linkedin.com/company/assemblyai/) |
+| 14 | [SmarterDx](https://smarterdx.com) | Clinical AI for hospital revenue | New York | [smarterdx](https://www.linkedin.com/company/smarterdx/) |
+| 15 | [Cresta](https://cresta.com) | AI for contact centers | Sunnyvale | [cresta-inc](https://www.linkedin.com/company/cresta-inc/) |
+| 16 | [Deepgram](https://deepgram.com) | Voice AI platform | San Francisco | [deepgram](https://www.linkedin.com/company/deepgram/) |
+| 17 | [Turing](https://turing.com) | AI training data and talent | Palo Alto | [turingcom](https://www.linkedin.com/company/turingcom/) |
+| 18 | [Toloka](https://toloka.ai) | AI data and evaluations | Amsterdam | [toloka](https://www.linkedin.com/company/toloka/) |
+| 19 | [Sanity](https://sanity.io) | AI content platform | San Francisco | [sanity-io](https://www.linkedin.com/company/sanity-io/) |
+| 20 | [H2O.ai](https://h2o.ai) | Enterprise AI platform | Mountain View | [h2oai](https://www.linkedin.com/company/h2oai/) |
+| 21 | [AKASA](https://akasa.com) | Generative AI for healthcare billing | South San Francisco | [akasahealth](https://www.linkedin.com/company/akasahealth/) |
+| 22 | [Qdrant](https://qdrant.tech) | Vector database | Berlin | [qdrant](https://www.linkedin.com/company/qdrant/) |
+| 23 | [Lightning AI](https://lightning.ai) | AI development cloud | New York | [pytorch-lightning](https://www.linkedin.com/company/pytorch-lightning/) |
+| 24 | [Abacus.AI](https://abacus.ai) | AI agents platform | San Francisco | [abacusai](https://www.linkedin.com/company/abacusai/) |
+| 25 | [HiddenLayer](https://hiddenlayer.com) | AI security | Austin | [hiddenlayersec](https://www.linkedin.com/company/hiddenlayersec/) |
+| 26 | [Sourcegraph](https://sourcegraph.com) | AI coding tools | San Francisco | [sourcegraph](https://www.linkedin.com/company/sourcegraph/) |
+| 27 | [Coder](https://coder.com) | Workspaces for developers and AI agents | Austin | [coderhq](https://www.linkedin.com/company/coderhq/) |
+| 28 | [Phaidra](https://phaidra.ai) | AI agents for data centers | Seattle | [phaidra-ai](https://www.linkedin.com/company/phaidra-ai/) |
+| 29 | [Observe.AI](https://observe.ai) | AI agents for contact centers | Redwood City | [observeai](https://www.linkedin.com/company/observeai/) |
+| 30 | [Hex](https://hex.tech) | AI data analytics workspace | San Francisco | [hex-technologies](https://www.linkedin.com/company/hex-technologies/) |
+| 31 | [Labelbox](https://labelbox.com) | AI training data | San Francisco | [labelbox](https://www.linkedin.com/company/labelbox/) |
+| 32 | [Vercel](https://vercel.com) | AI cloud, maker of v0 | San Francisco | [vercel](https://www.linkedin.com/company/vercel/) |
 
 
 ## 💼 Handpicked Resources for Startup Jobs
