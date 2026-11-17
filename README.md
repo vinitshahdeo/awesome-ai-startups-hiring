@@ -1,12 +1,12 @@
 <img width="1536" height="1024" alt="Awesome AI Startup Hiring in 2026" src="https://github.com/user-attachments/assets/6010546a-3d22-40e2-b1cc-094e3901e7e6" />
 
 
-# 200+ Top AI Startups Hiring Software Engineers in 2026
+# 280+ Top AI Startups Hiring Software Engineers in 2026
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-vinitshahdeo-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/vinitshahdeo) ![GitHub Repo stars](https://img.shields.io/github/stars/vinitshahdeo/awesome-ai-startups-hiring?style=social)
 
 
-A curated list of 250+ AI-first startups across agent infrastructure, LLM inference, AI dev tools, data & retrieval infra, AI security, voice, and AI-fintech — with category and latest funding. **Curated for software engineers job-hunting in the AI era.** Find well-funded AI companies to apply to. Just know that [FAANG isn't the only game](https://leetcode.com/discuss/post/8457111/beyond-faang-160-well-funded-ai-startups-7b4p) in town anymore. ⚡
+A curated list of 280+ AI-first startups across agent infrastructure, LLM inference, AI dev tools, data & retrieval infra, AI security, voice, and AI-fintech — with category and latest funding. **Curated for software engineers job-hunting in the AI era.** Find well-funded AI companies to apply to. Just know that [FAANG isn't the only game](https://leetcode.com/discuss/post/8457111/beyond-faang-160-well-funded-ai-startups-7b4p) in town anymore. ⚡
 
 
 > [!WARNING]
@@ -24,7 +24,7 @@ A curated list of 250+ AI-first startups across agent infrastructure, LLM infere
 ## 📋 List of AI Startups
 
 > [!NOTE]
-> _Last updated: 2026-11-17_
+> _Last updated: 2026-11-18_
 > 
 > If you find this helpful, please star or watch this repo as I continuously update it with the community's help. **PRs are always welcome**—let's contribute to expand this list for everyone!
 
@@ -289,6 +289,30 @@ A curated list of 250+ AI-first startups across agent infrastructure, LLM infere
 | 257 | [Operand](https://www.linkedin.com/company/operandofficial/) | Hiring: AI/ML models, agents & quantitative research | $31M Series A · Oct/Nov 2026 |
 | 258 | [Hyperbolic](https://www.linkedin.com/company/hyperbolic-labs/) | Hiring: forward deployed infrastructure, data engineering & support | $30M Series A · Oct/Nov 2026 |
 | 259 | [Coframe](https://www.linkedin.com/company/coframe-ai/) | Hiring: machine learning, AI engineering & enterprise GTM | $25M Series A · Oct/Nov 2026 |
+| 260 | [Legora](https://bit.ly/4t4qimR) | AI agents / legal technology | Venture-backed (funding details N/A) |
+| 261 | [Basis](https://bit.ly/4t1rO9e) | AI agents / accounting & finance operations | Venture-backed (funding details N/A) |
+| 262 | [Wispr Flow](https://bit.ly/4klxVTE) | Voice AI / AI-powered dictation | Venture-backed (funding details N/A) |
+| 263 | [Granola](https://bit.ly/4zMgalb) | AI productivity / meeting notes & workspace | Venture-backed (funding details N/A) |
+| 264 | [Crusoe](https://bit.ly/4f9pIys) | AI infrastructure / sustainable compute cloud | Venture-backed (funding details N/A) |
+| 265 | [Etched](https://bit.ly/4iVQXPz) | AI infrastructure / specialized inference chips | Venture-backed (funding details N/A) |
+| 266 | [OpenAI](https://bit.ly/4kTX3RB) | AI lab / frontier models & products | Funding details N/A |
+| 267 | [Thinking Machines Lab](https://bit.ly/48oip2i) | AI lab / frontier AI research | Venture-backed (funding details N/A) |
+| 268 | [Reflection AI](https://bit.ly/4t6YM8q) | AI lab / autonomous coding & reasoning | Venture-backed (funding details N/A) |
+| 269 | [Periodic Labs](https://bit.ly/3UVnhIQ) | AI lab / scientific discovery | Venture-backed (funding details N/A) |
+| 270 | [Liquid AI](https://bit.ly/4kUrCGS) | AI lab / efficient foundation models | Venture-backed (funding details N/A) |
+| 271 | [Shield AI](https://bit.ly/3WBrzWz) | Defense AI / autonomous aircraft systems | Venture-backed (funding details N/A) |
+| 272 | [Saronic](https://bit.ly/4kTX487) | Defense AI / autonomous maritime systems | Venture-backed (funding details N/A) |
+| 273 | [Base](https://bit.ly/4zQa1Ex) | Energy AI / power infrastructure | Venture-backed (funding details N/A) |
+| 274 | [Hadrian](https://bit.ly/4kUrJCi) | AI-enabled manufacturing / defense supply chain | Venture-backed (funding details N/A) |
+| 275 | [Bedrock Robotics](https://bit.ly/4kX59sI) | Robotics / autonomous construction | Venture-backed (funding details N/A) |
+| 276 | [Skild](https://bit.ly/3UUbgDJ) | Robotics / general-purpose robot intelligence | Venture-backed (funding details N/A) |
+| 277 | [Sunday Robotics](https://bit.ly/4iMMoaa) | Robotics / autonomous systems | Venture-backed (funding details N/A) |
+| 278 | [Temporal](https://bit.ly/4zPJo2y) | AI developer tools / durable application infrastructure | Venture-backed (funding details N/A) |
+| 279 | [Linear](https://bit.ly/4teNezV) | AI developer tools / issue tracking & product workflows | Venture-backed (funding details N/A) |
+| 280 | [AfterQuery](https://bit.ly/4AAorsq) | AI data / training data for advanced agents | Venture-backed (funding details N/A) |
+| 281 | [Surge AI](https://bit.ly/4jlIWDp) | AI data / human data & model evaluation | Venture-backed (funding details N/A) |
+| 282 | [Kalshi](https://bit.ly/3WBrja3) | AI-adjacent fintech / prediction markets | Venture-backed (funding details N/A) |
+| 283 | [Chai Discovery](https://bit.ly/4iYgS7I) | AI biotech / molecular discovery | Venture-backed (funding details N/A) |
 
 ## 🌍 Remote-Friendly AI Companies
 
