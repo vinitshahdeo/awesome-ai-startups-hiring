@@ -1,12 +1,12 @@
 <img width="1536" height="1024" alt="Awesome AI Startup Hiring in 2026" src="https://github.com/user-attachments/assets/6010546a-3d22-40e2-b1cc-094e3901e7e6" />
 
 
-# 280+ Top AI Startups Hiring Software Engineers in 2026
+# 300+ Top AI Startups Hiring Software Engineers in 2026
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-vinitshahdeo-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/vinitshahdeo) ![GitHub Repo stars](https://img.shields.io/github/stars/vinitshahdeo/awesome-ai-startups-hiring?style=social)
 
 
-A curated list of 280+ AI-first startups across agent infrastructure, LLM inference, AI dev tools, data & retrieval infra, AI security, voice, and AI-fintech — with category and latest funding. **Curated for software engineers job-hunting in the AI era.** Find well-funded AI companies to apply to. Just know that [FAANG isn't the only game](https://leetcode.com/discuss/post/8457111/beyond-faang-160-well-funded-ai-startups-7b4p) in town anymore. ⚡
+A curated list of 300+ AI-first startups across agent infrastructure, LLM inference, AI dev tools, data & retrieval infra, AI security, voice, and AI-fintech — with category and latest funding. **Curated for software engineers job-hunting in the AI era.** Find well-funded AI companies to apply to. Just know that [FAANG isn't the only game](https://leetcode.com/discuss/post/8457111/beyond-faang-160-well-funded-ai-startups-7b4p) in town anymore. ⚡
 
 
 > [!WARNING]
@@ -313,6 +313,28 @@ A curated list of 280+ AI-first startups across agent infrastructure, LLM infere
 | 281 | [Surge AI](https://bit.ly/4jlIWDp) | AI data / human data & model evaluation | Venture-backed (funding details N/A) |
 | 282 | [Kalshi](https://bit.ly/3WBrja3) | AI-adjacent fintech / prediction markets | Venture-backed (funding details N/A) |
 | 283 | [Chai Discovery](https://bit.ly/4iYgS7I) | AI biotech / molecular discovery | Venture-backed (funding details N/A) |
+| 284 | [Sparxity](https://www.linkedin.com/company/sparxity/) | AI infrastructure / brain-inspired chips for AI inference (Dresden / SF) | $50M–$100M round · Oct/Nov 2026 |
+| 285 | [Charta Health](https://www.linkedin.com/company/chartahealth/) | Healthcare AI / AI chart review before billing (SF / Remote) | $50M–$100M round · Oct/Nov 2026 |
+| 286 | [Optics11](https://www.linkedin.com/company/optics11bv/) | Fiber-optic sensing for extreme environments (Amsterdam) | $50M–$100M round · Oct/Nov 2026 |
+| 287 | [Beacon Holdings](https://www.linkedin.com/company/https-www.beaconholdings.com-/) | Software business acquisitions (Toronto / SF / NYC / Remote) | $50M–$100M round · Oct/Nov 2026 |
+| 288 | [Kalepa](https://www.linkedin.com/company/kalepa/) | AI fintech / AI underwriting platform for insurers (NYC / SF / US / CAN / Remote) | $50M–$100M round · Oct/Nov 2026 |
+| 289 | [Pliant](https://www.linkedin.com/company/getpliant/) | Fintech / modular B2B payments and cards (Berlin / London / NYC / EU / US / Remote) | $50M–$100M round · Oct/Nov 2026 |
+| 290 | [Tutor Intelligence](https://www.linkedin.com/company/tutorintelligence/) | Robotics / foundation models for warehouse robots (US) | $50M–$100M round · Oct/Nov 2026 |
+| 291 | [Fragment](https://www.linkedin.com/company/fragment-data-technologies/) | AI agents / procurement exceptions (SF) | $50M–$100M round · Oct/Nov 2026 |
+| 292 | [Foundry Robotics](https://www.linkedin.com/company/foundry-robotics/) | Robotics / robotic cells for hardware assembly (Emeryville / DC / Remote) | $50M–$100M round · Oct/Nov 2026 |
+| 293 | [Nevis](https://www.linkedin.com/company/neviswealth/) | AI fintech / AI platform for wealth advisors (NYC / London / US / EU / Remote) | $50M–$100M round · Oct/Nov 2026 |
+| 294 | [Reliable Robotics](https://www.linkedin.com/company/reliablerobotics/) | Robotics / autonomous flight systems (US) | $50M–$100M round · Oct/Nov 2026 |
+| 295 | [Blackwall](https://www.linkedin.com/company/blackwall-solutions/) | Security / web security for hosting providers (EU / LATAM / ANZ / APAC / Remote) | $50M–$100M round · Oct/Nov 2026 |
+| 296 | [Abby Care](https://www.linkedin.com/company/abbycareorg/) | Healthcare / training and paying family caregivers (SF / US) | $50M–$100M round · Oct/Nov 2026 |
+| 297 | [North](https://www.linkedin.com/company/northcld/) | Cloud and AI cost management (NYC) | $50M–$100M round · Oct/Nov 2026 |
+| 298 | [Stand](https://www.linkedin.com/company/standinsurance/) | Insurtech / catastrophe-risk homeowners insurance (SF / Austin / Chicago / Remote) | $50M–$100M round · Oct/Nov 2026 |
+| 299 | [Reach Security](https://www.linkedin.com/company/reach-security/) | AI security / AI-native security controls (SF / Remote) | $50M–$100M round · Oct/Nov 2026 |
+| 300 | [Scarlet](https://www.linkedin.com/company/scarlet-comply/) | Healthcare AI / certification for AI medical devices (London / NYC / UK / EU / Remote) | $50M–$100M round · Oct/Nov 2026 |
+| 301 | [Komodo Health](https://www.linkedin.com/company/komodo-health/) | Healthcare AI / analytics on health records (NYC / SF / US / India) | $50M–$100M round · Oct/Nov 2026 |
+| 302 | [Databento](https://www.linkedin.com/company/databento/) | Fintech / APIs for financial market data (Global) | $50M–$100M round · Oct/Nov 2026 |
+| 303 | [AheadComputing](https://www.linkedin.com/company/aheadcomputing/) | Hardware / high-performance CPU cores (Portland / Austin) | $50M–$100M round · Oct/Nov 2026 |
+| 304 | [Mecka](https://www.linkedin.com/company/mecka-ai/) | AI data / movement data for robotics training (Toronto / NYC / SF / Remote) | $50M–$100M round · Oct/Nov 2026 |
+| 305 | [Spiko](https://www.linkedin.com/company/spiko-tech/) | Fintech / money market cash investing (Paris / London) | $50M–$100M round · Oct/Nov 2026 |
 
 ## 🌍 Remote-Friendly AI Companies
 
