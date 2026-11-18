@@ -1,12 +1,12 @@
 <img width="1536" height="1024" alt="Awesome AI Startup Hiring in 2026" src="https://github.com/user-attachments/assets/6010546a-3d22-40e2-b1cc-094e3901e7e6" />
 
 
-# 300+ Top AI Startups Hiring Software Engineers in 2026
+# 320+ Top AI Startups Hiring Software Engineers in 2026
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-vinitshahdeo-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/vinitshahdeo) ![GitHub Repo stars](https://img.shields.io/github/stars/vinitshahdeo/awesome-ai-startups-hiring?style=social)
 
 
-A curated list of 300+ AI-first startups across agent infrastructure, LLM inference, AI dev tools, data & retrieval infra, AI security, voice, and AI-fintech — with category and latest funding. **Curated for software engineers job-hunting in the AI era.** Find well-funded AI companies to apply to. Just know that [FAANG isn't the only game](https://leetcode.com/discuss/post/8457111/beyond-faang-160-well-funded-ai-startups-7b4p) in town anymore. ⚡
+A curated list of 320+ AI-first startups across agent infrastructure, LLM inference, AI dev tools, data & retrieval infra, AI security, voice, and AI-fintech — with category and latest funding. **Curated for software engineers job-hunting in the AI era.** Find well-funded AI companies to apply to. Just know that [FAANG isn't the only game](https://leetcode.com/discuss/post/8457111/beyond-faang-160-well-funded-ai-startups-7b4p) in town anymore. ⚡
 
 
 > [!WARNING]
@@ -335,6 +335,27 @@ A curated list of 300+ AI-first startups across agent infrastructure, LLM infere
 | 303 | [AheadComputing](https://www.linkedin.com/company/aheadcomputing/) | Hardware / high-performance CPU cores (Portland / Austin) | $50M–$100M round · Oct/Nov 2026 |
 | 304 | [Mecka](https://www.linkedin.com/company/mecka-ai/) | AI data / movement data for robotics training (Toronto / NYC / SF / Remote) | $50M–$100M round · Oct/Nov 2026 |
 | 305 | [Spiko](https://www.linkedin.com/company/spiko-tech/) | Fintech / money market cash investing (Paris / London) | $50M–$100M round · Oct/Nov 2026 |
+| 306 | [Tenstorrent](https://www.linkedin.com/company/tenstorrent-inc./) | AI infrastructure / AI chips & RISC-V compute | $1.5B Series E · Oct/Nov 2026 |
+| 307 | [TypeSafe AI](https://www.linkedin.com/company/typesafe-ai/) | AI startup | $870M Series A · Oct/Nov 2026 |
+| 308 | [Fractile](https://www.linkedin.com/company/fractile/) | AI infrastructure / AI inference chips | $720M Series C · Oct/Nov 2026 |
+| 309 | [ASI (Airspace Intelligence)](https://www.linkedin.com/company/airspace-intelligence/) | Applied AI / aviation & defense airspace operations | $325M Series C · Oct/Nov 2026 |
+| 310 | [Path Robotics](https://www.linkedin.com/company/path-robotics/) | Robotics / AI-powered welding | $300M Series E · Oct/Nov 2026 |
+| 311 | [Q-CTRL](https://www.linkedin.com/company/q-ctrl/) | Quantum infrastructure software | $290M Series C · Oct/Nov 2026 |
+| 312 | [Vinci](https://www.linkedin.com/company/vinciphysics/) | Applied AI / physics simulation for engineering | $250M Series B · Oct/Nov 2026 |
+| 313 | [Nominal](https://www.linkedin.com/company/nominal-inc/) | Hardware test & evaluation data platform | $240M Series C · Oct/Nov 2026 |
+| 314 | [PathosAI](https://www.linkedin.com/company/pathosai/) | Health AI / AI-driven oncology drug development | $237M Series E · Oct/Nov 2026 |
+| 315 | [Warp Sciences](https://www.linkedin.com/company/warp-sciences/) | AI startup | $215M Series A · Oct/Nov 2026 |
+| 316 | [Arena](https://www.linkedin.com/company/arenaim/) | AI startup | $200M Series B · Oct/Nov 2026 |
+| 317 | [doubleAI](https://www.linkedin.com/company/doubleai/) | AI startup | $200M Series A · Oct/Nov 2026 |
+| 318 | [Salience Labs](https://www.linkedin.com/company/salience-labs/) | AI infrastructure / photonic AI chips | $125M Series B · Oct/Nov 2026 |
+| 319 | [Town](https://www.linkedin.com/company/town-com/) | AI startup | $108M Series B · Oct/Nov 2026 |
+| 320 | [Suki](https://www.linkedin.com/company/sukihq/) | Health AI / AI assistant for clinicians | $90M Series E · Oct/Nov 2026 |
+| 321 | [Trajectory](https://www.linkedin.com/company/trajectory-ai/) | AI startup | $45M Series A · Oct/Nov 2026 |
+| 322 | [Orakl Oncology](https://www.linkedin.com/company/orakloncology/) | Health AI / AI oncology drug discovery | $34M Series A · Oct/Nov 2026 |
+| 323 | [Zus Health](https://www.linkedin.com/company/zus-health/) | Health AI / healthcare data platform | $33M Series B · Oct/Nov 2026 |
+| 324 | [Vera Health](https://www.linkedin.com/company/vera-health-ai/) | Health AI / clinical decision support | $28.5M Series A · Oct/Nov 2026 |
+| 325 | [PsiThera](https://www.linkedin.com/company/psithera/) | Health AI / AI drug discovery | $25M financing · Oct/Nov 2026 |
+| 326 | [Biomatter](https://www.linkedin.com/company/biomatter/) | AI biotech / AI protein & enzyme design | $18M Series A · Oct/Nov 2026 |
 
 ## 🌍 Remote-Friendly AI Companies
 
