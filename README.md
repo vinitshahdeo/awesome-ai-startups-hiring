@@ -469,6 +469,57 @@ A curated list of 340+ AI-first startups across agent infrastructure, LLM infere
 | 89 | [Coinbase](https://lnkd.in/gFRV6R_h) | Crypto exchange and onchain platform · 100% remote | Remote | — |
 
 
+## 📧 HR & Careers Emails
+
+40 startups you can reach out to directly by email. Send a short, tailored note with your resume and the role you're interested in.
+
+> [!NOTE]
+> Some of these are general contact, support, or sales inboxes rather than dedicated HR addresses. Verify on the company's website before sending, and don't spam.
+
+| # | Company | Email |
+|---:|---|---|
+| 1 | Adloggs | [hr@adloggs.com](mailto:hr@adloggs.com) |
+| 2 | Adzzat Labs | [contact@adzzat.com](mailto:contact@adzzat.com) |
+| 3 | AetherLabs | [careers@aetherlabs.in](mailto:careers@aetherlabs.in) |
+| 4 | Agal Apps | [hr@agalapps.com](mailto:hr@agalapps.com) |
+| 5 | AppsInAI | [hr@appsin.ai](mailto:hr@appsin.ai) |
+| 6 | Aranidhi | [hr@aranidhi.com](mailto:hr@aranidhi.com) |
+| 7 | Arnisys Tech | [hr@arnisystech.com](mailto:hr@arnisystech.com) |
+| 8 | ArthOne | [careers@arthone.com](mailto:careers@arthone.com) |
+| 9 | AstroGaon | [careers@astrogaon.com](mailto:careers@astrogaon.com) |
+| 10 | Avesha | [jobs@aveshasystems.com](mailto:jobs@aveshasystems.com) |
+| 11 | Brixi AI | [careers@brixi.ai](mailto:careers@brixi.ai) |
+| 12 | Clinxt | [support@clinxt.in](mailto:support@clinxt.in) |
+| 13 | Cognira AI | [sales@cogniraai.com](mailto:sales@cogniraai.com) |
+| 14 | Dhruvanta Systems | [careers@dhruvantasystems.com](mailto:careers@dhruvantasystems.com) |
+| 15 | Dmeals | [careers@dmeals.in](mailto:careers@dmeals.in) |
+| 16 | Dynnova | [careers@dynnova.io](mailto:careers@dynnova.io) |
+| 17 | Empathy Technologies | [careers@empathytechnologies.in](mailto:careers@empathytechnologies.in) |
+| 18 | Envisstack | [careers@envisstack.com](mailto:careers@envisstack.com) |
+| 19 | FileDiffs | [career@filediffs.com](mailto:career@filediffs.com) |
+| 20 | Humyn Labs | [hr@humynlabs.ai](mailto:hr@humynlabs.ai) |
+| 21 | HungryMinds | [careers@hungryminds.info](mailto:careers@hungryminds.info) |
+| 22 | IndiVillage | [careers@indivillage.com](mailto:careers@indivillage.com) |
+| 23 | JalsaX AI | [info@jalsax.com](mailto:info@jalsax.com) |
+| 24 | KovaiSoft | [info@kovaisoft.in](mailto:info@kovaisoft.in) |
+| 25 | [Live2.ai](https://live2.ai) | [careers@live2.ai](mailto:careers@live2.ai) |
+| 26 | LivingAI Solutions | [careers@livingai.in](mailto:careers@livingai.in) |
+| 27 | MeraEV | [careers@meraev.com](mailto:careers@meraev.com) |
+| 28 | MNB Research | [contact@mnbresearch.com](mailto:contact@mnbresearch.com) |
+| 29 | MNRATHI | [careers@mnrathi.com](mailto:careers@mnrathi.com) |
+| 30 | MOP Careers | [careers@mopcareers.in](mailto:careers@mopcareers.in) |
+| 31 | MeeruAI | [careers@meeru.ai](mailto:careers@meeru.ai) |
+| 32 | Outmarket AI | [careers@outmarket.ai](mailto:careers@outmarket.ai) |
+| 33 | PplAct | [careers@pplact.com](mailto:careers@pplact.com) |
+| 34 | PTAS AI | [connect@ptasai.com](mailto:connect@ptasai.com) |
+| 35 | Salesgear | [jobs@salesgear.io](mailto:jobs@salesgear.io) |
+| 36 | Startup IT Solution | [careers@startupitsolution.in](mailto:careers@startupitsolution.in) |
+| 37 | Startupbricks | [careers@startupbricks.in](mailto:careers@startupbricks.in) |
+| 38 | Truffl Innovations | [careers@trufflinnovations.in](mailto:careers@trufflinnovations.in) |
+| 39 | WallzaOS | [hiring@wallzaos.app](mailto:hiring@wallzaos.app) |
+| 40 | Zeqo | [hello@zeqo.in](mailto:hello@zeqo.in) |
+
+
 ## 💼 Handpicked Resources for Startup Jobs
 
 If you want to look beyond the usual LinkedIn job board grind, here are some high-signal, developer-focused platforms for discovering AI and startup roles:
