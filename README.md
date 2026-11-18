@@ -374,7 +374,7 @@ A curated list of 340+ AI-first startups across agent infrastructure, LLM infere
 
 ## 🌍 Remote-Friendly AI Companies
 
-32 remote-friendly AI companies actively hiring, ranked by percentage headcount growth over the past 90 days.
+89 remote-friendly companies actively hiring. Rows 1–32 are AI companies ranked by percentage headcount growth over the past 90 days; rows 33–89 are companies hiring for 100% remote roles (company links go to their careers pages).
 
 | # | Company | What They Do | HQ | LinkedIn |
 |---:|---|---|---|---|
@@ -410,6 +410,63 @@ A curated list of 340+ AI-first startups across agent infrastructure, LLM infere
 | 30 | [Hex](https://hex.tech) | AI data analytics workspace | San Francisco | [hex-technologies](https://www.linkedin.com/company/hex-technologies/) |
 | 31 | [Labelbox](https://labelbox.com) | AI training data | San Francisco | [labelbox](https://www.linkedin.com/company/labelbox/) |
 | 32 | [Vercel](https://vercel.com) | AI cloud, maker of v0 | San Francisco | [vercel](https://www.linkedin.com/company/vercel/) |
+| 33 | [Symetra](https://lnkd.in/gaWBUP47) | Insurance and retirement financial services · 100% remote | Bellevue | — |
+| 34 | [Docker](https://lnkd.in/gygvhBQp) | Container platform for developers · 100% remote | Palo Alto | — |
+| 35 | [Cengage Group](https://lnkd.in/g_m83JcC) | Education technology and publishing · 100% remote | Boston | — |
+| 36 | [Zapier](https://zapier.com/jobs) | AI workflow automation · 100% remote | San Francisco | — |
+| 37 | [Upstart](https://lnkd.in/g3FJaefU) | AI lending marketplace · 100% remote | San Mateo | — |
+| 38 | [Hims & Hers](https://lnkd.in/gcESwW7W) | Telehealth and wellness platform · 100% remote | San Francisco | — |
+| 39 | [UserGems](https://lnkd.in/g_Dy5Kqi) | AI pipeline generation for sales teams · 100% remote | San Francisco | — |
+| 40 | [Abnormal AI](https://lnkd.in/g-zZsUVM) | AI-native email security · 100% remote | Las Vegas | — |
+| 41 | [Affirm](https://lnkd.in/gzJ8_enz) | Buy now, pay later payments · 100% remote | San Francisco | — |
+| 42 | [Customer.io](https://lnkd.in/gDhXTqNd) | Customer messaging and engagement · 100% remote | Portland | — |
+| 43 | [Remote](https://lnkd.in/g4Y5EgfT) | Global HR, payroll and employer of record · 100% remote | San Francisco | — |
+| 44 | [Kit](https://kit.com/careers) | Email marketing for creators · 100% remote | Boise | — |
+| 45 | [Deel](https://lnkd.in/g9AR3qYF) | Global payroll and HR platform · 100% remote | San Francisco | — |
+| 46 | [Very Good Security (VGS)](https://lnkd.in/g7mQJead) | Payment data security and tokenization · 100% remote | San Francisco | — |
+| 47 | [VAST Data](https://lnkd.in/gKuW_p3D) | AI data platform and storage · 100% remote | New York | — |
+| 48 | [Sorcero](https://lnkd.in/g_aq3apY) | AI analytics for life sciences · 100% remote | Washington, DC | — |
+| 49 | [McGraw Hill](https://lnkd.in/gBHSN2bm) | Education technology and learning content · 100% remote | New York | — |
+| 50 | [Linear](https://linear.app/careers) | Product development and issue tracking · 100% remote | San Francisco | — |
+| 51 | [Grafana Labs](https://lnkd.in/gss5Evd5) | Open-source observability platform · 100% remote | New York | — |
+| 52 | [Upwork](https://lnkd.in/gskG4asN) | Freelance talent marketplace · 100% remote | San Francisco | — |
+| 53 | [Docusign](https://lnkd.in/gxiQGC4p) | AI-powered agreement management · 100% remote | San Francisco | — |
+| 54 | [PostHog](https://lnkd.in/gmRX-aQM) | Open-source product analytics · 100% remote | San Francisco | — |
+| 55 | [Intrado](https://lnkd.in/gi9udQr6) | Emergency and safety communications · 100% remote | Omaha | — |
+| 56 | [GitBook](https://lnkd.in/gTkz_Fm8) | AI-native documentation platform · 100% remote | San Francisco | — |
+| 57 | [Workiva](https://lnkd.in/g58AH6bH) | Financial reporting and compliance platform · 100% remote | Ames | — |
+| 58 | [MissionWired](https://lnkd.in/gETNBWqN) | Digital fundraising for nonprofits and campaigns · 100% remote | Washington, DC | — |
+| 59 | [Help Scout](https://lnkd.in/g2XXms4D) | Customer support software · 100% remote | Boston | — |
+| 60 | [Close](https://close.com/careers) | CRM for small sales teams · 100% remote | Remote | — |
+| 61 | [Brave Software](https://brave.com/careers/) | Privacy-focused browser and search · 100% remote | San Francisco | — |
+| 62 | [Toptal](https://lnkd.in/gvRGqhH8) | Freelance talent network · 100% remote | Remote | — |
+| 63 | [1Password](https://lnkd.in/gcBHrDaZ) | Password and identity security · 100% remote | Toronto | — |
+| 64 | [Canonical](https://lnkd.in/ghwD2hRC) | Ubuntu and open-source infrastructure · 100% remote | London | — |
+| 65 | [Toggl](https://toggl.com/jobs) | Time tracking and productivity tools · 100% remote | Tallinn | — |
+| 66 | [GitLab](https://lnkd.in/g7C7CGEW) | AI-powered DevSecOps platform · 100% remote | San Francisco | — |
+| 67 | [DigitalOcean](https://lnkd.in/grRrK2t5) | Cloud and GPU infrastructure for developers · 100% remote | New York | — |
+| 68 | [Atlassian](https://lnkd.in/gP4BWUsm) | Team collaboration and developer tools · 100% remote | Sydney | — |
+| 69 | [Bitwarden](https://lnkd.in/gy3q6mJ9) | Open-source password management · 100% remote | Santa Barbara | — |
+| 70 | [Shopify](https://lnkd.in/gvWcCdn6) | Commerce platform · 100% remote | Ottawa | — |
+| 71 | [Appcues](https://lnkd.in/giPGtr_c) | Product adoption and onboarding · 100% remote | Boston | — |
+| 72 | [Arkency](https://lnkd.in/guZpujwH) | Ruby on Rails consultancy · 100% remote | Wrocław | — |
+| 73 | [Automattic](https://lnkd.in/gdrRQg9z) | WordPress.com, WooCommerce and Tumblr · 100% remote | San Francisco | — |
+| 74 | [Awesome Motive](https://lnkd.in/g6vAvK6f) | WordPress plugins and tools · 100% remote | West Palm Beach | — |
+| 75 | [Buffer](https://buffer.com/journey) | Social media management · 100% remote | San Francisco | — |
+| 76 | [Constructor](https://lnkd.in/gAjZw-st) | AI-powered ecommerce search · 100% remote | San Francisco | — |
+| 77 | [Trail of Bits](https://lnkd.in/gahUrRzc) | Security research and engineering · 100% remote | New York | — |
+| 78 | [MailerLite](https://lnkd.in/g_p_ppvc) | Email marketing platform · 100% remote | Vilnius | — |
+| 79 | [DuckDuckGo](https://lnkd.in/gUjT2cmw) | Privacy-focused search and browser · 100% remote | Paoli | — |
+| 80 | [RevenueCat](https://lnkd.in/gWsj-WM6) | In-app subscription infrastructure · 100% remote | San Francisco | — |
+| 81 | [Akamai Technologies](https://lnkd.in/gY5wwa2Z) | Cloud, CDN and security · 100% remote | Cambridge | — |
+| 82 | [Cloudbeds](https://lnkd.in/g_UMEURe) | Hospitality management platform · 100% remote | San Diego | — |
+| 83 | [SafetyWing](https://lnkd.in/geWZagtG) | Insurance for remote workers and nomads · 100% remote | San Francisco | — |
+| 84 | [ClickHouse](https://lnkd.in/gXSHByzX) | Real-time analytics database · 100% remote | San Francisco | — |
+| 85 | [Circle](https://lnkd.in/gSkrAZCD) | Community platform for creators and brands · 100% remote | Remote | — |
+| 86 | [BairesDev](https://lnkd.in/gDngnknV) | Software development outsourcing · 100% remote | San Francisco | — |
+| 87 | [Xapo Bank](https://lnkd.in/gzYAJ3z9) | Digital bank with bitcoin services · 100% remote | Gibraltar | — |
+| 88 | [Deltek](https://lnkd.in/gDZqnmvK) | Project-based business software · 100% remote | Herndon | — |
+| 89 | [Coinbase](https://lnkd.in/gFRV6R_h) | Crypto exchange and onchain platform · 100% remote | Remote | — |
 
 
 ## 💼 Handpicked Resources for Startup Jobs
