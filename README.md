@@ -1,12 +1,12 @@
 <img width="1536" height="1024" alt="Awesome AI Startup Hiring in 2026" src="https://github.com/user-attachments/assets/6010546a-3d22-40e2-b1cc-094e3901e7e6" />
 
 
-# 320+ Top AI Startups Hiring Software Engineers in 2026
+# 340+ Top AI Startups Hiring Software Engineers in 2026
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-vinitshahdeo-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/vinitshahdeo) ![GitHub Repo stars](https://img.shields.io/github/stars/vinitshahdeo/awesome-ai-startups-hiring?style=social)
 
 
-A curated list of 320+ AI-first startups across agent infrastructure, LLM inference, AI dev tools, data & retrieval infra, AI security, voice, and AI-fintech — with category and latest funding. **Curated for software engineers job-hunting in the AI era.** Find well-funded AI companies to apply to. Just know that [FAANG isn't the only game](https://leetcode.com/discuss/post/8457111/beyond-faang-160-well-funded-ai-startups-7b4p) in town anymore. ⚡
+A curated list of 340+ AI-first startups across agent infrastructure, LLM inference, AI dev tools, data & retrieval infra, AI security, voice, and AI-fintech — with category and latest funding. **Curated for software engineers job-hunting in the AI era.** Find well-funded AI companies to apply to. Just know that [FAANG isn't the only game](https://leetcode.com/discuss/post/8457111/beyond-faang-160-well-funded-ai-startups-7b4p) in town anymore. ⚡
 
 
 > [!WARNING]
@@ -356,6 +356,21 @@ A curated list of 320+ AI-first startups across agent infrastructure, LLM infere
 | 324 | [Vera Health](https://www.linkedin.com/company/vera-health-ai/) | Health AI / clinical decision support | $28.5M Series A · Oct/Nov 2026 |
 | 325 | [PsiThera](https://www.linkedin.com/company/psithera/) | Health AI / AI drug discovery | $25M financing · Oct/Nov 2026 |
 | 326 | [Biomatter](https://www.linkedin.com/company/biomatter/) | AI biotech / AI protein & enzyme design | $18M Series A · Oct/Nov 2026 |
+| 327 | [Netic](https://www.linkedin.com/company/netic-ai/) | AI that automates customer comms for service businesses (San Francisco) | NA |
+| 328 | [Avoca](https://www.linkedin.com/company/avoca-ai/) | AI front office handling calls and texts (New York) | NA |
+| 329 | [Valerie Health](https://www.linkedin.com/company/valerie-health/) | AI patient communications (San Francisco) | NA |
+| 330 | [Hi Marley](https://www.linkedin.com/company/himarley/) | AI texting platform for insurers (Boston) | NA |
+| 331 | [EliseAI](https://www.linkedin.com/company/eliseai/) | AI messaging and leasing automation for housing and healthcare (New York) | NA |
+| 332 | [Netomi](https://www.linkedin.com/company/netomi/) | AI customer service agents (San Mateo) | NA |
+| 333 | [Omilia](https://www.linkedin.com/company/omilia-ltd/) | Conversational AI for customer service (Larnaca, Cyprus) | NA |
+| 334 | [Wati](https://www.linkedin.com/company/watiglobal/) | WhatsApp-first AI customer engagement (Hong Kong) | NA |
+| 335 | [Hyro](https://www.linkedin.com/company/hyroai/) | AI agents for patient communications (New York) | NA |
+| 336 | [Front](https://www.linkedin.com/company/fronthq/) | AI-assisted shared inbox and customer ops (San Francisco) | NA |
+| 337 | [Pylon](https://www.linkedin.com/company/usepylon/) | Agentic B2B support across Slack and chat (San Francisco) | NA |
+| 338 | [Podium](https://www.linkedin.com/company/podium/) | AI lead and messaging platform for local businesses (Lehi) | NA |
+| 339 | [Symphony](https://www.linkedin.com/company/symphonycomm/) | Secure messaging for financial institutions (Palo Alto) | NA |
+| 340 | [Iterable](https://www.linkedin.com/company/iterable/) | AI customer engagement and cross-channel messaging (San Francisco) | NA |
+| 341 | [Genesys](https://www.linkedin.com/company/genesys/) | AI experience orchestration for contact centers (Menlo Park) | NA |
 
 ## 🌍 Remote-Friendly AI Companies
 
